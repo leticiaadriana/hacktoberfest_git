@@ -1,2 +1,0 @@
-HacktoberFest Git Course
-
