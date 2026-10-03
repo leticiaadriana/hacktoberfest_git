@@ -1,2 +1,2 @@
-# hacktoberfest_git
 HacktoberFest Git Course
+
